@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+body {
+    background-image: url(./IMG/TheWitcher.png);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+section {
+    display: inline-block;
+    justify-content: space-between;
+    text-align: center;
+}
+
+figure{   display: inline-block;margin-top: 30px;}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+button {
+    margin-top: 100px;
+    margin-left: 49%;
+}
